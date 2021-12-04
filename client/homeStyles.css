@@ -1,0 +1,102 @@
+html {
+    margin: 0;  
+ }
+ 
+/*  #currentConvos {
+     height: auto; 
+     width: 22%;
+     float: left; 
+     margin: 6.5px;
+     margin-top: 12.5px; 
+ }
+  */
+ #user1 {
+   border: 2px solid black; 
+   padding: 2px; 
+ }
+ 
+ #user2 {
+   border: 2px solid black; 
+   padding: 2px; 
+ }
+ 
+ #user3 {
+   border: 2px solid black; 
+   padding: 2px; 
+ }
+ 
+ #user4 {
+   border: 2px solid black; 
+   padding: 2px; 
+ }
+ 
+ #user5{
+   border: 2px solid black; 
+   padding: 2px; 
+ }
+ 
+ #mainChat {
+    position:fixed;
+    top:0;
+    left:0;
+    padding:0;
+    max-height: 50px;
+ }
+
+ .input-group .form-control {
+    margin: 0px !important;
+}
+
+.input-group { font-size: 14px !important; }
+
+ #canvas {
+     height: 5cm; 
+ }
+
+ #Send {
+    width: 90px;
+    margin: 0 auto;
+    text-align: justify;
+ }
+ 
+ #openRooms {
+     width: 22%;
+     float: right; 
+     margin-left: 12.5px
+ }
+
+
+ #room1 {
+     border: 2px solid black; 
+     padding: 2px; 
+ }
+
+ #room2 {
+    border: 2px solid black; 
+    padding: 2px; 
+}
+
+#room3 {
+    border: 2px solid black; 
+    padding: 2px; 
+}
+ 
+ 
+ 
+ h1 {
+     text-align: center; 
+     font-family: Arial, sans-serif;
+ }
+ 
+ h2 {
+     font-family: Arial, sans-serif
+ }
+ 
+ h3 {
+     font-family: Arial, sans-serif
+ }
+ 
+ .navbar-collapse.in {
+    display: block !important;
+}
+ 
